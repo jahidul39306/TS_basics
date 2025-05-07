@@ -1,4 +1,4 @@
-###How does TypeScript help in improving code quality and project maintainability?
+### How does TypeScript help in improving code quality and project maintainability?
 
 In a simple answer, **TypeScript catches code errors at compile time, but JavaScript catches errors at runtime.**
 
